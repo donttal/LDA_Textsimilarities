@@ -1,0 +1,2 @@
+# LDA_Textsimilarities
+对输入input.txt文件进行停用词去除和分词到output.txt文件，通过modelLDA.py文件进行词矩阵并进行主题分割和相似文本的结合，重要难度是在于主题个数的确定以及相似度的确定，这直接影响了最终得到的结果
